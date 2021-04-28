@@ -21,7 +21,7 @@ b.	All delivery personnel are students.
 
 ### Part 1:
 
-1) We created a rating system for both drivers and restaurants.  The rating files must show supertypes and subtypes. WE loaded the tables with sufficient test data from http://www.generatedata.com.
+1) We created a rating system for both drivers and restaurants.  The rating tables showed supertypes and subtypes. We loaded the tables with sufficient test data from http://www.generatedata.com.
 2) After adding the tables, we reverse engineered the database to obtain the model.
 3)	We then analyzed the indexes that are already in the database.
 4)	Lastly, we created three views that included the ratings tables.
