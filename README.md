@@ -19,6 +19,16 @@ b.	All delivery personnel are students.
 6)	The database will serve as an important data collection source providing valuable information about nutrition and eating habits of campus community members.
 
 
+## Part 1:
+
+1)	Using the script that is provided, load the CampusEats database using the SQL script.  Reverse engineer to the CampusEats Model.  Study the model and the database to understand the tables, relationships and characteristics of existing data.
+2)	Review the business rules below.  Make sure the database is in compliance with the business rules.
+3)	Following proper guidelines for fully normalized relational databases, your team is responsible for the addition of a rating system for both drivers and restaurants.  The rating files must show supertypes and subtypes. Load the tables with sufficient test data (http://www.generatedata.com can be used or the records can be entered manually– 40 or more rating records for your test data conforming to your supertype-subtype requirements).
+4)	After adding the tables, reverse engineer to update the model.
+5)	Analyze the indexes that are already in the database. Implement any improvements based on the business rules and your interpretation of how the data might be used.
+6)	Create three advanced views that include the ratings tables.
+
+
 ![EERD](Images/Group5_ERDiagram.PNG)
 
 
