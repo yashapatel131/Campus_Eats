@@ -27,7 +27,7 @@ b.	All delivery personnel are students.
 4)	Analyze the indexes that are already in the database. Implement any improvements based on the business rules and your interpretation of how the data might be used.
 5)	Create three advanced views that include the ratings tables.
 
-(EERD Model with new tables added)
+(EERD Model with new tables: driver_rating, restaurant_rating, and rating)
 ![EERD](Images/Group5_ERDiagram.PNG)
  
 ### Part 2:
