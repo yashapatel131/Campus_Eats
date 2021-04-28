@@ -22,7 +22,7 @@ b.	All delivery personnel are students.
 ### Part 1:
 
 1)	Using the script that is provided, load the CampusEats database using the SQL script.  Reverse engineer to the CampusEats Model.  Study the model and the database to understand the tables, relationships and characteristics of existing data.
-2)	Create a rating system for both drivers and restaurants.  The rating files must show supertypes and subtypes. Load the tables with sufficient test data (http://www.generatedata.com can be used or the records can be entered manually– 40 or more rating records for your test data conforming to your supertype-subtype requirements).
+2)	Create a rating system for both drivers and restaurants.  The rating files must show supertypes and subtypes. Load the tables with sufficient test data (http://www.generatedata.com) can be used or the records can be entered manually– 40 or more rating records for your test data conforming to your supertype-subtype requirements).
 3)	After adding the tables, reverse engineer to update the model.
 4)	Analyze the indexes that are already in the database. Implement any improvements based on the business rules and your interpretation of how the data might be used.
 5)	Create three advanced views that include the ratings tables.
@@ -33,13 +33,9 @@ b.	All delivery personnel are students.
 ### Part 2:
 
 1)  Create a stored procedure that inserts a new row into the Restaurant table. Test with good and bad data.
-
 2)  Create a function that returns the Driver_ID given the Driver_Name.  Test the function.
-
 3)  Create a function that returns the Restaurant_ID given the Restaurant_Name..  Test the function.
-
 4)  Create a stored procedure or a function that returns the average ratings for Restaurants.  Test the function.
-
 5)  Create a Stored Procedure or a function that returns the average ratings for a Restaurant given a Restaurant _ID.  Do the same for Driver_Ratings.
 
 ### Part 3:
