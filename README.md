@@ -28,8 +28,24 @@ b.	All delivery personnel are students.
 5)	Analyze the indexes that are already in the database. Implement any improvements based on the business rules and your interpretation of how the data might be used.
 6)	Create three advanced views that include the ratings tables.
 
-
+(EERD Model with new tables added)
 ![EERD](Images/Group5_ERDiagram.PNG)
+ 
+## Part 2:
+
+1)  Create a stored procedure that inserts a new row into the Restaurant table. Test with good and bad data.
+
+2)  Create a function that returns the Driver_ID given the Driver_Name.  Test the function.
+
+3)  Create a function that returns the Restaurant_ID given the Restaurant_Name..  Test the function.
+
+4)  Create a stored procedure or a function that returns the average ratings for Restaurants.  Test the function.
+
+5)  Create a Stored Procedure or a function that returns the average ratings for a Restaurant given a Restaurant _ID.  Do the same for Driver_Ratings.
+
+## Part 3:
+
+Add two triggers of your choice to the Campus Eats database system.
 
 
 
